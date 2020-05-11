@@ -20,6 +20,7 @@
         <module>springcloud-provider-hystrix</module>
         <module>springcloud-config-server</module>
         <module>springcloud-config-client</module>
+        <module>springcloud-zuul-5081</module>
     </modules>
 
     <dependencyManagement>
